@@ -1,7 +1,7 @@
 # PoliTrip
 
 ## Integrantes
-
+0
 * Denisse Cumbal
 * Daniel Guachamín
 * Jeremy León
@@ -89,6 +89,45 @@ A continuación, se puede ver la aplicación web con la información de la app m
 
 * [![Angular][Angular.io]][Angular-url]
 * [![Firebase][Firebase.google.com]][Firebase-url]
+
+## Getting Started
+
+### Instalación App Móvil
+
+1. Clona el repositorio
+   ```sh
+   git clone https://github.com/DanielGuachamin/policiclo-ec.git
+   ```
+2. Inicia el proyecto en Visual Studio Code 2022, las dependencias se instalan por defecto.
+
+### Instalación App Web
+
+1. Clona el repositorio
+   ```sh
+   git clone https://github.com/DanielGuachamin/policiclo-ec.git
+   ```
+2. Instala las dependencias del proyecto
+  	```sh
+  	npm install 
+  	```
+ 3. Levanta el servidor
+ 	```sh
+  	ng serve --o 
+  	```
+## Anexos
+
+Encuentra en el siguiente link el video de la explicación técnica del código
+
+* [Video](https://clipchamp.com/watch/uIK4CbWSVae) 
+
+También contamos con un video que explica la funcionalidad de las aplicaciones
+
+* [Video](https://clipchamp.com/watch/uIK4CbWSVae) 
+
+Puedes visitar la aplicación web dirigiendote al siguinete enlace
+
+* [Sitio Web](https://ionicimagen-358b2.web.app/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
