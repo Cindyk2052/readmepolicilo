@@ -19,3 +19,10 @@ El presente proyecto implementea una aplicación móvil nativa enfocada a un gru
 
 La aplicación muestra la localización en Google Maps 🌍 de todos los miembros del grupo de ciclistas. Tiene la cualidad de seguir corriendo en segundo plano y realizar un registro de las ubicaciones en una base de datos cada 30 segundos. Además de contar con un registro e inicio de sesión con recuperación de contraseña y verificación de correo 📧, así tambien de tener una aplicación web que permite ver la información de la app móvil. 
 
+### Registro 
+
+El registro de un usuario nuevo es a través de correo electrónico y contraseña
+
+<div align="center">
+    <img src="captures/registroSesion.png" alt="Registro" width="232" height="492">
+</div>
