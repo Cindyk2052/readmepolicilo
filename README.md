@@ -1,7 +1,7 @@
 # PoliTrip
 
 ## Integrantes
-0
+
 * Denisse Cumbal
 * Daniel Guachamín
 * Jeremy León
